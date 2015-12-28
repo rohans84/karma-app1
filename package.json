@@ -1,0 +1,25 @@
+{
+  "name": "karma_app1",
+  "version": "1.0.0",
+  "description": "angular test app to test karma",
+  "main": "karma.conf.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "karma": "^0.13.16",
+    "karma-chai": "^0.1.0",
+    "karma-coverage": "^0.5.3",
+    "karma-mocha": "^0.2.1",
+    "karma-phantomjs-launcher": "^0.2.2",
+    "mocha": "^2.3.4",
+    "phantomjs": "^1.9.19"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "author": "RNS",
+  "license": "ISC"
+}
